@@ -5,7 +5,7 @@ const parse = require('@textlint/markdown-to-ast').parse;
 const defaultInlineStyles = {
   Strong: {
     type: 'BOLD',
-    symbol: '__'
+    symbol: '**'
   },
   Emphasis: {
     type: 'ITALIC',

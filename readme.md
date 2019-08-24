@@ -51,7 +51,7 @@ The default Markdown dictionary is
 
 ```js
 {
-  BOLD: '__',
+  BOLD: '**',
   ITALIC: '*'
 };
 ```

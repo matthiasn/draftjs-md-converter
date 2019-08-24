@@ -1,7 +1,7 @@
 'use strict';
 
 const defaultMarkdownDict = {
-  BOLD: '__',
+  BOLD: '**',
   ITALIC: '*'
 };
 
